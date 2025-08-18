@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Pot Catcher",
+    "description": "Ловля фруктов",
+    "file_url": "https://txxicu.itch.io/pot-catcher/download/eyJpZCI6MzI3NDQyNCwiZXhwaXJlcyI6MTc1NTU0NTk1OX0%3d.q9HWuvwvi%2fV5cBg%2fj04KR5dyCq0%3d",
+    "file_type": "exe"
+  },
+  {
+    "name": "Space Tactics",
+    "description": "Тактическая стратегия в космосе.",
+    "file_url": "https://raw.githubusercontent.com/youruser/space-tactics/main/builds/SpaceTactics-linux.tar.gz",
+    "file_type": "tar.gz"
+  }
+]
